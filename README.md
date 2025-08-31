@@ -1,4 +1,3 @@
-#CODETECH Intership Task-1
 
 # Cloud Monitoring – Alerts Setup
 
