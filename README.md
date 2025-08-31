@@ -80,7 +80,7 @@ Define the alert condition:
 Configure a **Notification Channel**.
 
 * Options include: Mobile App, Google Chat, PagerDuty, Slack, Webhooks, Email, SMS
-* Email notification configured: `8sailaja@gmail.com` (Display Name: VVIT)
+* Email notification configured: `Sample@gmail.com` (Display Name: VVIT)
 
 👉 **Purpose**: Alerts are delivered to email in real time.
 
